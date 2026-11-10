@@ -1,0 +1,13 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "balanced binary search tree project for TOP",
+  "main": "app-two.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
